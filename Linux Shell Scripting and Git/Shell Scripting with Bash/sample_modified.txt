@@ -1,0 +1,4 @@
+This is a sample text file.
+It contains some new_text that needs to be replaced.
+The new_text may appear multiple times in the file.
+We will use sed to perform the replacement.
